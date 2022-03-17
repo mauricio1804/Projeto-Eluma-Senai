@@ -8,7 +8,7 @@ body{
    left: 43%;
    background: #FFFFFF;
    height: 25px;
-   /** width: 500px; AQUI**/
+   width: 500px;
    padding: 10px;
    border-radius: 30px;
    display: flex;
@@ -22,9 +22,5 @@ body{
     outline: none;
 }
 
-.search-btn{
-    
-    
-}
 
 
