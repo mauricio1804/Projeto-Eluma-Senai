@@ -3,5 +3,5 @@ body{
 }
 
 .logo{
-    align-items: right;
+    float: right;
 }
