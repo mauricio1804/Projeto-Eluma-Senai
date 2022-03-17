@@ -5,7 +5,7 @@ body{
 
 .search-box{
    position: absolute; 
-   left: 43%;
+   left: 30%;
    background: #FFFFFF;
    height: 25px;
    width: 500px;
@@ -20,6 +20,7 @@ body{
     border: none;
     background: none;
     outline: none;
+    width: 450px;
 }
 
 
