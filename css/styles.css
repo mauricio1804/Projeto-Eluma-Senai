@@ -1,3 +1,29 @@
 body{
     background-color: #d7cec7;
+    margin: 0;
 }
+
+.search-box{
+   position: absolute; 
+   left: 43%;
+   background: #FFFFFF;
+   height: 25px;
+   padding: 10px;
+   border-radius: 30px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.search-text{
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.search-btn{
+    
+    
+}
+
+
