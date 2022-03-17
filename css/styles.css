@@ -32,4 +32,6 @@ body{
 
 .logo{
     float: right;
+    top: 5%;
+    right: 5%;
 }
