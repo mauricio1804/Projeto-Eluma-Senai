@@ -1,3 +1,7 @@
 body{
     background-color: #d7cec7;
 }
+
+.logo{
+    float: right;
+}
