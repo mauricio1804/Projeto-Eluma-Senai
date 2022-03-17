@@ -6,6 +6,7 @@ body{
 .search-box{
    position: absolute; 
    left: 30%;
+   top: 3%;
    background: #FFFFFF;
    height: 25px;
    width: 500px;
@@ -23,5 +24,14 @@ body{
     width: 450px;
 }
 
+.home{
+    position: absolute;
+    top: 3%;
+    left: 2%;
+}
 
-
+.logo{
+    float: right;
+    top: 5%;
+    right: 5%;
+}
