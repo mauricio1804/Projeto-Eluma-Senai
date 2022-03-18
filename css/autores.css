@@ -54,3 +54,27 @@ body{
     right: 500px;
     top: 830px;
 }
+
+.autor1{
+   background-color: #76323f;
+   padding: 10px;
+   text-decoration: none;
+   cursor: pointer;
+   border-radius: 5px;
+   width: 350px;
+   position: absolute;
+   left: 300px;
+   top: 400px;
+   color: white;
+   font-size: 30px;
+   font-family: 'BebasNeueRegular';
+    src: url(BebasNeueRegular.eot);
+    src: url(BebasNeueRegular.eot?#iefix) format('embedded-opentype'),
+         url(BebasNeueRegular.woff) format('woff'),
+         url(BebasNeueRegular.ttf) format('truetype'),
+         url(BebasNeueRegular.svg) format('svg');
+}
+
+.autor1:hover{
+    background-color: #A9A9A9;
+}
