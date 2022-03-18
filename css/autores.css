@@ -35,6 +35,6 @@ body{
 
 .titulo{
     font-family: 'Times New Roman', Times, serif;
-    float: center;
+    text-align: center;
 }
  
