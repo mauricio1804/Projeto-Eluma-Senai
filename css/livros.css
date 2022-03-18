@@ -87,11 +87,22 @@ body{
  }
 
  .titulo{
-    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     position: absolute;
-    left: 450px;
-    top: 150px;
+    left: 360px;
+    top: 50px;
     font-size: 40px;
     text-decoration: underline #76323f;
+}
+
+.avançarerd{
+    position: absolute;
+    left: 510px;
+    top: 830px;
+}
+
+.avançardrt{
+    position: absolute;
+    right: 500px;
+    top: 830px;
 }
