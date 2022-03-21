@@ -7,7 +7,28 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <!--Luis-->
     <title>Biblioteca Eluma</title>
+
+    <style>
+        @font-face {
+            font-family: 'Cheque';
+            src: url('fontes/cheque.otf.otf') format('opentype'); 
+            font-weight: normal;
+            font-style: normal;
+        }
+    body {
+        font-family: 'Cheque', Helvetica, sans-serif;
+    
+    }
+    
+    h1{
+        font-family: 'Cheque', Times, serif;
+        font-size: 3em;
+        font-weight: normal;
+    }
+    </style>
+    
 </head>
+
 <body>
     <div class="search-box">
         <input type="text" class="search-text"> 
@@ -27,15 +48,11 @@
     </div>
 
     <div id="livrosGenericos">
-        <botton type="botton"> LIVROS GENÉRICOS </botton>
-    </div>
+        <button class="livrosGenericos"> LIVROS GENÉRICOS </button>
 
-    <div id="livrosDidaticos">
-        <botton type="botton"> LIVROS DIDÁTICOS </botton>
-    </div>
+        <button class="livrosDidaticos"> LIVROS DIDÁTICOS </button>
 
-    <div id="gibisEmangas">
-        <botton type="botton"> GIBIS & MANGAS </botton>
+        <button class="gibisEmangas"> GIBIS & MANGAS </button>
     </div>
 
     <div class= "titulo">
